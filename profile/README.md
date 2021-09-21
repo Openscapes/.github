@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hello!
+
+![](horst-openscapes-mentors.jpg)
+
+We mentor research teams for kinder, better science in less time.
 
 
 <!--
