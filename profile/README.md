@@ -2,7 +2,7 @@
 
 ![](https://github.com/Openscapes/.github/blob/main/profile/horst-openscapes-mentors.jpg)
 
-**We mentor research teams in open data science for kinder, better science in less time.**
+**We mentor research teams in open data science for kinder, better science for future us.**
 
 
 <!--
