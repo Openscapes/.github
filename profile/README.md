@@ -1,6 +1,6 @@
 ## Hello!
 
-<img src="https://github.com/Openscapes/.github/blob/main/profile/horst-openscapes-mentors.jpg" width="650">  
+<img src="https://github.com/Openscapes/.github/blob/main/profile/horst-openscapes-mentors.jpg" width="550">  
 
 
 **We mentor research teams in open data science for kinder, better science for future us.**
