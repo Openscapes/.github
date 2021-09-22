@@ -1,13 +1,14 @@
 ## Hello!
 
-![](https://github.com/Openscapes/.github/blob/main/profile/horst-openscapes-mentors.jpg)
+<img src="https://github.com/Openscapes/.github/blob/main/profile/horst-openscapes-mentors.jpg" width="650">  
+
 
 **We mentor research teams in open data science for kinder, better science for future us.**
 
 
 <!--
 
-<img src="https://github.com/Openscapes/.github/blob/main/profile/horst-openscapes-mentors.jpg" width="300">  
+<center><img src="https://github.com/Openscapes/.github/blob/main/profile/horst-openscapes-mentors.jpg" width="100"></center>
 
 **Here are some ideas to get you started:**
 
